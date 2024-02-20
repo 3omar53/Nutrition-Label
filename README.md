@@ -1,7 +1,3 @@
-Certainly! Here's a description that you can add to your GitHub repository for this project:
-
----
-
 # Nutrition Label Webpage
 
 This project is a simple webpage that represents a nutrition label designed using HTML and styled with CSS. The nutrition label provides information about serving size, calories, and the percentage of daily values for various nutrients. The layout is visually appealing, mimicking the structure of a typical nutrition label found on food packaging.
